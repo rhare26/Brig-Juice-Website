@@ -1,4 +1,4 @@
-# brigs
+# Brig Juice Brass Website
 [Spring 2020] This is a static website for a brass ensemble I used to play in. It uses basic HTML and CSS and was made for my first course in web development. You can view the website at: https://cs.sunyocc.edu/~r.e.hare/cis130/index.html
 
 
